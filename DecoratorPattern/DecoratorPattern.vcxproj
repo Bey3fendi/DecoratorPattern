@@ -130,6 +130,7 @@
     <ClCompile Include="DecoratorPattern.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DecoratorFactory.h" />
     <ClInclude Include="DecoratorPattern.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
